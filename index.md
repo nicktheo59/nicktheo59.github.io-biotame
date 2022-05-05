@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## Welcome to Biota.Me
 
-You can use the [editor on GitHub](https://github.com/nicktheo59/nicktheo59.github.io-biotame/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Attention this Domain name will soon be available for a budding entrepreneur to purchase from me. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Why is it for sale?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+After my own health giving my an accelerated education in the microbiome - I was passionate to start a business idea with another partner.
+(Interestingly it was similar to what TakeThesis ended up becoming) 
+In the end we went our separate ways - but I couldn't see this great domain merely disspearing into the aether and getting snatched up by Godaddy's bots.
 
-```markdown
-Syntax highlighted code block
+### Why is it valuable?
 
-# Header 1
-## Header 2
-### Header 3
+- Short and Memorable. Just 5 letters, 2 syllables.
 
-- Bulleted
-- List
+- Flexible brand identity potential. 
 
-1. Numbered
-2. List
+1. Bio, as in biology or biome. 
+2. Biota as in gut flora and fauna.
+3. Tame as in mastered, trained or subjugated. 
+4. Me as in personalised 
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+<!-- [Link](url) and ![Image](src) -->
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Price 
 
-### Jekyll Themes
+Over $2500 USD but Under $10,000 USD -- depending on the number of interested parties
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nicktheo59/nicktheo59.github.io-biotame/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Contact Me
 
-### Support or Contact
+You can contact me via Calendly to register your interest. Here's the link https://calendly.com/nt-/biota-me-domain-name 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The deadline is 5th June 2022. 
+
+(For any referrals that ultimately go on to purchase the domain name, I'm willing to share a commission of 500 USD or donate that to UNICEF)  
