@@ -20,11 +20,6 @@ In the end we went our separate ways - but I couldn't see this great domain mere
 3. Tame as in mastered, trained or subjugated. 
 4. Me as in personalised 
 
-**Bold** and _Italic_ and `Code` text
-
-<!-- [Link](url) and ![Image](src) -->
-```
-
 ### Price 
 
 Over $2500 USD but Under $10,000 USD -- depending on the number of interested parties
