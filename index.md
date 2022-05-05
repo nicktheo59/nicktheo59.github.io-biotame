@@ -31,4 +31,3 @@ You can contact me via Calendly to register your interest. Here's the link https
 The deadline is 5th June 2022. 
 
 (For any referrals that ultimately go on to purchase the domain name, I'm willing to share a commission of 500 USD or donate that to UNICEF)  
-
