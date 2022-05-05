@@ -11,14 +11,14 @@ In the end we went our separate ways - but I couldn't see this great domain mere
 
 ### Why is it valuable?
 
-- Short and Memorable. Just 5 letters, 2 syllables.
+- Short and Memorable. Just 5 letters, 2 words.
 
-- Flexible brand identity potential. 
+- Flexible brand identity potential:
 
 1. Bio, as in biology or biome. 
 2. Biota as in gut flora and fauna.
 3. Tame as in mastered, trained or subjugated. 
-4. Me as in personalised 
+4. Me as in personalised, or personalised medicine.
 
 ### Price 
 
@@ -31,3 +31,4 @@ You can contact me via Calendly to register your interest. Here's the link https
 The deadline is 5th June 2022. 
 
 (For any referrals that ultimately go on to purchase the domain name, I'm willing to share a commission of 500 USD or donate that to UNICEF)  
+
